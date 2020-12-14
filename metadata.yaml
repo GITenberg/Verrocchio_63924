@@ -1,0 +1,39 @@
+_repo: Verrocchio_63924
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Mackowsky, Hans
+    birthdate: 1871
+    deathdate: 1938
+    gutenberg_agent_id: '52665'
+    url: http://www.gutenberg.org/2009/agents/52665
+    wikipedia: https://de.wikipedia.org/wiki/Hans_Mackowsky
+  editor:
+    agent_name: Knackfuss, H. (Hermann)
+    aliases:
+    - Knackfuß, Hermann
+    - Knackfuss, Hermann
+    birthdate: 1848
+    deathdate: 1915
+    gutenberg_agent_id: '37412'
+    url: http://www.gutenberg.org/2009/agents/37412
+    wikipedia:
+    - https://de.wikipedia.org/wiki/Hermann_Knackfu%C3%9F
+    - https://en.wikipedia.org/wiki/Hermann_Knackfuss
+description: ''
+gutenberg_issued: '2020-11-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63924'
+  lccn: '01013163'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: 'Künstler-Monographien: LII'
+subjects:
+- !lcc 'N'
+- !lcsh 'Verrocchio, Andrea del, 1435?-1488'
+- GITenberg
+title: Verrocchio
+url: http://www.gutenberg.org/ebooks/63924
